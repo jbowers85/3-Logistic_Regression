@@ -1,6 +1,6 @@
-# 3-Logistic_Regression
+# Logistic Regression
 
-This repository is meant to provide examples of implementing simple and multiple logistic regressions in R.
+This repository is meant to provide examples of implementing simple and multiple logistic regressions with Iris flower data in R.
 
 **Simple Logistic Regression**: 1 predictor variable
 
