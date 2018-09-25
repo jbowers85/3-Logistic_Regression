@@ -1,10 +1,10 @@
+
 # LOGISTIC REGRESSION #
 
-# Press Alt + O to collapse all sections in order to choose the section of interest
-# To expand all sections, press Shift + Alt + O
 
-## 1.) Simple Logistic Regression ####
-  
+
+## 1.) SIMPLE LOGISTIC REGRESSION - CLASSIFICATION - BINARY DEPENDENT VARIABLE ####
+
 ### read in data
 data <- iris
 
@@ -119,7 +119,7 @@ predictions
 
 
 
-## 2.) Multiple Logistic Regression ####
+## 1.) MULTIPLE LOGISTIC REGRESSION - CLASSIFICATION - BINARY DEPENDENT VARIABLE ####
 
 ### read in data
 data <- iris
