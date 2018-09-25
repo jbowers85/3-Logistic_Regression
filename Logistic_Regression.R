@@ -1,6 +1,11 @@
-
-# LOGISTIC REGRESSION #
-
+#___________________________________________________________________________________________________________________________________
+# 1.) This is an example workflow that predicts whether a flower is versicolor or virginica using a Simple Logistic Regression.
+# 
+# 2.) Same as #1, but this time using Multiple Logistic Regression.
+#
+# By: James Bowers
+# 
+#___________________________________________________________________________________________________________________________________
 
 
 ## 1.) SIMPLE LOGISTIC REGRESSION - CLASSIFICATION - BINARY DEPENDENT VARIABLE ####
